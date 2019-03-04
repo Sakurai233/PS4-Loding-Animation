@@ -6,10 +6,6 @@ body {
 	margin: 0px;
 }
 
-#close-cross {
-	cursor: pointer;
-}
-
 .container {
 	background-color: black;
 	position: absolute;
