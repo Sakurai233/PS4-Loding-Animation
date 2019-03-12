@@ -76,32 +76,26 @@ body {
 .ps-icon {
 	width: 4vw;
 	height: 4vw;
+	margin: 1vw;
+	float: left;
 }
 
 .cross-icon {
 	background: url(../img/cross.png) no-repeat;
 	background-size: 100%;
-	margin: 1vw;
-	float: left;
 }
 
 .square-icon {
 	background: url(../img/square.png) no-repeat;
 	background-size: 100%;
-	margin: 1vw;
-	float: left;
 }
 
 .triangle-icon {
 	background: url(../img/triangle.png) no-repeat;
 	background-size: 100%;
-	margin: 1vw;
-	float: left;
 }
 
 .circle-icon {
 	background: url(../img/circle.png) no-repeat;
 	background-size: 100%;
-	margin: 1vw;
-	float: left;
 }
